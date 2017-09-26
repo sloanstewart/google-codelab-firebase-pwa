@@ -1,0 +1,20 @@
+{
+  "name": "firebase-pwa",
+  "authors": [
+    "Sloan <sloanstewartdev@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "platinum-sw": "PolymerElements/platinum-sw#^2.0.0"
+  }
+}
